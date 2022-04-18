@@ -23,7 +23,7 @@ public class Aula4 {
 			System.out.println("Numero desconhecido");
 			
 		}
-		String nome = 56;//pode ser usado inclusive um enum		
+		String nome = "ana";//pode ser usado inclusive um enum		
 				
 		switch (nome.toLowerCase()) {//é uma maneira de tratamento de erros
 		case "ana"://pode ser feito com String

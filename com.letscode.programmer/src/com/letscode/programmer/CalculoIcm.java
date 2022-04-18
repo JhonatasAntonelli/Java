@@ -28,9 +28,9 @@ public class CalculoIcm {
 			int peso = cs.nextInt();		
 			
 
-			if ((float) peso / (altura * altura) > 25 || (float) peso / (altura * altura) < 18,5) {
+			if ((float) peso / (altura * altura) > 25 || (float) peso / (altura * altura) < 18.5) {
 				
-				System.out.print(nome + "Est� com IMC for ado ideal!")
+				System.out.print(nome + "Est� com IMC for ado ideal!");
 			}
 
 			if ((float) peso / (altura * altura) < 18.5) {

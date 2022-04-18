@@ -33,7 +33,8 @@ public class ListaConvidados {
 		}
 		System.out.println(" ");
 		System.out.println("O convidado com o nome mais longo é: " + maior);
-
+// só podemos ter um main por class
+		
 	}
 }
 
